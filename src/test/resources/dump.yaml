@@ -1,0 +1,9 @@
+!!com.k2data.qa.ultron.dbcore.config.QueryConfig
+latest_data_query: null
+latest_data_query_optional_param: '&ddd'
+pointDataQuery: [query1, query2]
+point_data_query: null
+point_data_query_data: null
+pq1: pq1
+pq2: null
+query_url_prefix: query_url_prefix
